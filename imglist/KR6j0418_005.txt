@@ -1,0 +1,7 @@
+005-0928a00	T 005-0928a	buddhist/T-taisho/T20/09/T20-0928.png
+005-0928b00	T 005-0928b	buddhist/T-taisho/T20/09/T20-0928.png
+005-0928c00	T 005-0928c	buddhist/T-taisho/T20/09/T20-0928.png
+005-0929a00	T 005-0929a	buddhist/T-taisho/T20/09/T20-0929.png
+005-0929b00	T 005-0929b	buddhist/T-taisho/T20/09/T20-0929.png
+005-0929c00	T 005-0929c	buddhist/T-taisho/T20/09/T20-0929.png
+005-0930a00	T 005-0930a	buddhist/T-taisho/T20/09/T20-0930.png
