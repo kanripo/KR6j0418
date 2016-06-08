@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:07.630344
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 妙吉祥平等祕密最上觀門大教王經
 #+PROPERTY: CBETA_ID T20n1192
 #+PROPERTY: ID KR6j0418
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1192
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0418_T_004-0924a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 妙吉祥平等祕密最上觀門大¶
+妙吉祥平等祕密最上觀門大¶
 教王經卷第四¶
 ¶
 宋契丹國師中天竺摩竭陀國¶
